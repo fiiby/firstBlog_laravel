@@ -21,6 +21,7 @@
             <a href="{{ route('post.create') }}" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded">Add Post</a>
         </div>
 
+        
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
             @forelse ($post as $post)
             <div class="bg-white rounded-lg shadow-md p-4">
