@@ -8,6 +8,7 @@
     <title>Document</title>
 </head>
 
+
 <body class="antialiased bg-gray-100">
 
     <div class="container mx-auto py-8">
